@@ -28,9 +28,9 @@
     "Category": "string",
     "Genes": [
       {
-        "GeneCategory": "string",
+        "idGen": "string",
         "Sequence": "string"
       }
     ]
-  } 
+  }
 }
