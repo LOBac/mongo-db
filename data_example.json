@@ -1,0 +1,51 @@
+{
+	"Morphology": "Other",
+	"Year": 2010,
+	"MetabolismType": "Chemoorganotroph",
+	"MovementType": "Chemotaxis",
+	"OxygenDemand": "Anaerobic",
+	"GramStain": "False",
+	"Taxonomy": {
+		"Phylum": "Firmicutes",
+		"Class": "Rubrobacteria",
+		"Order": "Clostridiales",
+		"Family": "Tsukamurellaceae",
+		"Genus": "Hydrogenivirga",
+		"Specie": "Gordonia phage Mariokart"
+	},
+	"Diseases": [
+		{
+			"NameDisease": "Meningitis",
+			"Symptoms": [
+				"abrasion",
+				"headache(R51)"
+			],
+			"HasCure": false,
+			"Description": "Some description about the disease..."
+		},
+		{
+			"NameDisease": "Common cold",
+			"Symptoms": [],
+			"HasCure": false,
+			"Description": "Some description about the disease..."
+		}
+	],
+	"Genome": {
+		"idGenome": 0,
+		"Category": "CIRCULAR",
+		"Genes": [
+			{
+				"idGene": 0,
+				"Sequence": "TCCCGACGACGCATTCTCTGCAGGGAGGTTATAGTACTTACTTTGGTTTTACGACTAGCCT"
+			},
+			{
+				"idGene": 1,
+				"Sequence": "GTCCCACCACCTATTGAGGTGCCGCGGACTGGGATGTGCATGCTCATAGGTAGT"
+			},
+			{
+				"idGene": 2,
+				"Sequence": "CTTAATCCGTTGTTATCGCACCGATCTTTTGCGGGGAACGTCCCGCTCCTTGAGTTGCGTTAATTCACATCGATTAAGTAAGTAT"
+			}
+		]
+	}
+}
